@@ -1,4 +1,3 @@
-# Chess_Game
 # Chess Game using HTML, CSS, jQuery & Ajax
 
 A fully functional, browser-based chess game built from scratch as part of an academic micro-project. This project demonstrates core web development principles and features a complete implementation of chess rules and logic.
@@ -8,8 +7,6 @@ A fully functional, browser-based chess game built from scratch as part of an ac
 ---
 
 ## Screenshot
-
-*(**Note to developer:** To add a screenshot, take a picture of your running game, name it `screenshot.png`, and upload it to your GitHub repository. It will then appear here automatically.)*
 
 ![Chess Game Screenshot](screenshot.png)
 
@@ -42,11 +39,11 @@ A fully functional, browser-based chess game built from scratch as part of an ac
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/chess-game-project.git](https://github.com/your-username/chess-game-project.git)
+    git clone [https://github.com/Srivalli-M12/Chess_Game.git](https://Srivalli-M12/your-username/Chess_Game.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd chess-game-project
+    cd Chess_Game
     ```
 3.  **Open the `index.html` file** in your favorite web browser. No special server is required!
 
